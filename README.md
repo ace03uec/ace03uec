@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I am software developer from India, who loves to work on Golang, Kubernetes and Containers. 
-I blog about these and some learning at [giri.im](https://blog.giri.im.) I passed the Certified Kubernetes 
-Administrator (CKA) back in Nov 2019. 
+I blog about these and some learning at [giri.im](https://blog.giri.im.). 
 
 - 😄 Pronouns: He/Him
 - 📫 Drop a message @: me@giri.im
