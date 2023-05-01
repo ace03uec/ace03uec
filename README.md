@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work on Golang, Kubernetes and Containers. I blog about these and some learning at [giri.im](https://blog.giri.im). 
+I work on Golang, Kubernetes and Containers. I blog about these and other musings at [giri.im](https://blog.giri.im). 
 
 - 😄 Pronouns: He/Him
 - 📫 Drop a message @: me@giri.im
